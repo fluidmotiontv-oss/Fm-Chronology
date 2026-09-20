@@ -1,0 +1,6 @@
+{
+  "name": "FluidmotionTV Chronological Master Archive",
+  "description": "Master chronological archive and interactive data digest for FluidmotionTV, featuring 36-node Dragon9 clock telemetry, multimodal historical ingestion, and AI chronicle synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
